@@ -30,8 +30,8 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
 
-   git clone https://github.com/AngelosKontalis/PYTHON-SQL-CLINIC-GROUP22.git
-   cd PYTHON-SQL-CLINIC-GROUP22
+   git clone https://github.com/AngelosKontalis/PYTHON-SQL-CLINIC.git
+   cd PYTHON-SQL-CLINIC
 
 2. Install required dependencies:
 
